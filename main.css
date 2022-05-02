@@ -1,7 +1,12 @@
-body {
-  background-color: yellow;
+
+body{
+    background-color: yellow;
+}
+ul{
+    display: grid;
+    list-style-type: none;
+    margin-inline: 5px;
 }
 
-ul {
-  display: grid;
-}
+
+
