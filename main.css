@@ -1,8 +1,12 @@
+
 body{
     background-color: yellow;
 }
 ul{
-    display: flex;
+    display: grid;
     list-style-type: none;
     margin-inline: 5px;
 }
+
+
+
