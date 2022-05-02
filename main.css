@@ -1,3 +1,7 @@
-body{
-    background-color: yellow;
+body {
+  background-color: yellow;
+}
+
+ul {
+  display: grid;
 }
